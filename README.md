@@ -1,6 +1,6 @@
 # "Menu Acordeon con HTML5 - CSS3"
 
-Ejemplo menu acordeon en HTML5 y CSS3 
+Ejemplo Menu Acordeon en HTML5 y CSS3 
 
 Comenzando 🚀
 
